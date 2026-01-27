@@ -1,0 +1,1402 @@
+{
+  "sectionTitle": {
+    "about_company": "À propos de l'entreprise",
+    "best_in_tv": "Le meilleur à la télévision",
+    "best_sellers": "Meilleures ventes",
+    "best_selling_categories": "Catégories les plus vendues",
+    "international_shows": "Meilleures émissions internationales",
+    "continue_watching": "Continuer à regarder des films",
+    "crew": "Équipe",
+    "fresh_picks": "Nouveautés juste pour vous",
+    "latest_movies": "Derniers films",
+    "membership": "Adhésion",
+    "more_like_this": "Plus comme ça",
+    "movie_genres": "Genres de films",
+    "movies_recommended": "Films recommandés pour vous",
+    "movies_to_watch": "Films à regarder",
+    "newest_products": "Nouveaux produits",
+    "newsletter": "S'abonner à la newsletter",
+    "only_on_streamit": "Seulement sur Streamit",
+    "payments": "Nous acceptons les paiements",
+    "popular": "Populaire",
+    "popular_movies": "Films populaires",
+    "popular_videos": "Vidéos populaires",
+    "privacy_policy": "Politique de confidentialité",
+    "quick_links": "Liens rapides",
+    "recommended": "Recommandé",
+    "recommended_for_you": "Recommandé pour vous",
+    "recommended_movie": "Films recommandés",
+    "related_movies": "Films similaires",
+    "related_products": "Produits similaires",
+    "related_videos": "Vidéos similaires",
+    "recommended_tv_show": "Émission TV recommandée",
+    "specials_latest_movies": "Spéciaux & derniers films",
+    "starring": "Avec",
+    "suggested_block": "Suggéré pour vous",
+    "shows_recommend": "Émissions que nous recommandons",
+    "specials_latest_videos": "Spéciaux & dernières vidéos",
+    "terms_of_use": "Conditions d'utilisation",
+    "terms_and_use": "Conditions et utilisation",
+    "top_10_movies_to_watch": "Top 10 des films à regarder",
+    "top_10_tvshow_to_watch": "Top 10 des émissions TV à regarder",
+    "top_10_video_to_watch": "Top 10 des vidéos à regarder",
+    "top_picks": "Meilleurs choix pour vous",
+    "top_ten": "Top 10 des films à regarder",
+    "top_trending": "Tendances du moment",
+    "tv_upcoming_title": "Émissions TV à venir",
+    "tv_popular_shows": "Émissions TV populaires",
+    "upcoming": "À venir",
+    "upcoming_movies": "Films à venir",
+    "upcoming_video": "Vidéo à venir",
+    "view_all": "Voir tout",
+    "videos_recommended": "Vidéos recommandées pour vous",
+    "your_favourite_personality": "Votre personnalité préférée"
+  },
+
+  "streamButtons": {
+    "already_account": "Vous avez déjà un compte ?",
+    "add_playlist": "Ajouter une playlist",
+    "add_review": "Ajouter un avis",
+    "add_to_cart": "Ajouter au panier",
+    "apply_coupon": "Appliquer un coupon",
+    "create_playlist": "Créer une playlist",
+    "copy_link": "Copier le lien",
+    "new_playlist": "Créer une nouvelle playlist",
+    "create_watchlist": "Créer une liste de visionnage",
+    "editprofile": "Modifier le profil",
+    "follow_us": "Suivez-nous :",
+    "load_more": "Charger plus",
+    "login": "Se connecter",
+    "play_now": "Lire maintenant",
+    "print_button": "Imprimer ou enregistrer en PDF",
+    "read_more": "Lire plus",
+    "register": "S'inscrire",
+    "save_changes": "Enregistrer les modifications",
+    "sign_up": "Créer un compte",
+    "shop_now": "Acheter maintenant",
+    "show_password": "Afficher le mot de passe",
+    "start_watching": "Commencer à regarder",
+    "stream_now": "Diffuser maintenant",
+    "submit": "Soumettre",
+    "subscribe": "S'abonner",
+    "subscribe_watch": "S'abonner pour regarder",
+    "trailer_link": "Lien de la bande-annonce",
+    "update_cart": "Mettre à jour le panier",
+    "view_collection": "Voir la collection",
+    "view_cart": "Voir le panier",
+    "view_more": "Voir plus",
+    "want_more": "Vous en voulez plus ?",
+    "watch_list": "Liste de visionnage",
+    "watch_trailer": "Regarder la bande-annonce",
+    "watchlist": "Liste de suivi",
+    "submit_review": "Soumettre l'avis"
+
+  },
+
+  "streamTag": {
+    "action": "Action",
+    "agents": "Agents",
+    "adventure": "Aventure",
+    "animation": "Animation",
+    "astronomy": "Astronomie",
+    "brother": "Frère",
+    "brother_relationship": "Relation fraternelle",
+    "comedy": "Comédie",
+    "crime": "Crime",
+    "cricket": "Cricket",
+    "detective": "Détective",
+    "drama": "Drame",
+    "family": "Famille",
+    "fantasy": "Fantaisie",
+    "history": "Histoire",
+    "hitman": "Tueur à gages",
+    "horror": "Horreur",
+    "kings": "Rois",
+    "music": "Musique",
+    "mystery": "Mystère",
+    "mythology": "Mythologie",
+    "premieres": "Premières",
+    "romance": "Romance",
+    "sci-fi": "Science-fiction",
+    "tags": "Étiquettes",
+    "thriller": "Thriller"
+  },
+
+  "streamGenres": {
+    "action": "Action",
+    "adventure": "Aventure",
+    "animation": "Animation",
+    "astronomy": "Astronomie",
+    "comedy": "Comédie",
+    "crime": "Crime",
+    "drama": "Drame",
+    "family": "Famille",
+    "fantasy": "Fantaisie",
+    "genre": "Genres",
+    "horror": "Horreur",
+    "mystery": "Mystère",
+    "romance": "Romance",
+    "recommended": "Recommandé",
+    "sci_fi": "Science-fiction"
+  },
+
+  "favouritePersonalities": {
+    "angel_louis": "Angel Louis",
+    "ava_monroe": "Ava Monroe",
+    "benjamin_hayes": "Benjamin Hayes",
+    "charles_melton": "Charles Melton",
+    "charles_melton_description": "Charles Melton est un individu grand et charismatique avec des yeux bleus perçants et une barbe soignée. On le voit souvent arborer une coupe de cheveux élégante et il a un sens de la mode distinctif, privilégiant les costumes classiques sur le tapis rouge. Il a joué dans une gamme de films, allant des superproductions d'action aux comédies romantiques émouvantes, et est connu pour produire des films de haute qualité et à succès commercial.",
+    "davina_decorous": "Davin Decorous",
+    "ethan_crawford": "Ethan Crawford",
+    "jack_nicholson": "Jack Nicholson",
+    "jack_walker": "Jack Walker",
+    "james_stewart": "James Stewart",
+    "jeff_bridges": "Jeff Bridges",
+    "john_abraham": "John Abraham",
+    "jordan_grant": "Jordan Grant",
+    "kelly_reilly": "Kelly Reilly",
+    "Leena_Burton": "Leena Burton",
+    "maria_rodriguez": "Maria Rodriguez",
+    "mark_smith": "Mark Smith",
+    "mark_wilson": "Mark Wilson",
+    "maxwell_carter": "Maxwell Carter",
+    "michael_fox": "Michael Fox",
+    "millar_joseph": "Millar Joseph",
+    "Olivia_Foster": "Olivia Foster",
+    "olivia_foster": "Olivia Foster",
+    "ruby_scott": "Ruby Scott",
+    "Ryan_Pierce": "Ryan Pierce",
+    "smith_jonas": "Smith Jonas",
+    "starting": "Avec",
+    "thomas_bailey": "Thomas Bailey"
+  },
+
+  "persondesc": {
+    "all": "Tout",
+    "awards": "Récompenses",
+    "birthday": "Anniversaire",
+    "born": "Né :",
+    "crw": "CRW",
+    "dandacg": "Dandacg",
+    "direction": "Réalisateur",
+    "director": "Réalisateur",
+    "director_producer": "Réalisateur Producteur",
+    "actor": "Acteur",
+    "actress": "Actrice",
+    "goal": "Objectif",
+    "mackin": "Réalisation",
+    "most_view": "Films les plus vus",
+    "mexcan": "Mexicain",
+    "nominations": "NOMINATIONS",
+    "personal_details": "Détails personnels",
+    "person_history": "Biographie",
+    "producer": "Producteur",
+    "watchlist": "Liste de suivi",
+    "wins": "RÉCOMPENSES",
+    "writer": "Scénariste"
+  },
+
+  "language": {
+    "eng": "Anglais",
+    "language": "Langue"
+  },
+
+  "streamMovies": {
+    "adventure": "Aventure",
+    "adventure_desc": "Aventure",
+
+    "another_danger": "Un autre danger",
+    "another_danger_desc": "Lorsqu'une expérience gouvernementale tourne mal, un virus mortel se propage à travers le globe. Les survivants doivent faire des choix impossibles dans un monde en plein effondrement.",
+
+    "any_name": "N'importe quel nom",
+    "any_name_desc": "Dans un monde où le temps ne s’écoule plus, un groupe improbable d’aventuriers doit entreprendre un voyage périlleux pour trouver l’Horloge de l’Éternité — un artefact mythique censé contrôler le flux du temps. Menée par l’énigmatique historienne Dr. Evelyn Gray, l’équipe affronte des paysages traîtres, des mystères anciens et ses propres démons intérieurs, tout en luttant contre une organisation de l’ombre cherchant à exploiter le pouvoir de l’horloge à des fins sinistres.",
+
+    "arrival": "Arrival",
+    "arrival_desc": "Arrival est un film de science-fiction réalisé par Denis Villeneuve, basé sur la nouvelle *Story of Your Life* de Ted Chiang. Le film suit la linguiste Dr. Louise Banks (Amy Adams), recrutée par l’armée américaine pour communiquer avec de mystérieux extraterrestres arrivés sur Terre à bord de gigantesques vaisseaux flottants. Alors que les tensions mondiales s’intensifient et que les nations s’efforcent d’interpréter les intentions des aliens, Louise travaille avec le physicien Ian Donnelly (Jeremy Renner) pour déchiffrer leur langage complexe et non linéaire. Le film explore les thèmes du temps, de la communication et de la nature de l’expérience humaine, alliant profondeur intellectuelle et résonance émotionnelle.",
+
+    "assassins_creed": "Assassin’s Creed",
+    "assassins_creed_desc": "Assassin’s Creed",
+
+    "avengers": "Avengers",
+    "avengers_desc": "Les héros les plus puissants de la Terre s’unissent pour affronter une menace universelle dans une saga épique qui met à l’épreuve leur loyauté, leur pouvoir et leur sacrifice.",
+
+    "better_call_saul": "Better Call Saul",
+    "better_call_saul_desc": "L’histoire de la transformation de l’avocat de seconde zone Jimmy McGill en Saul Goodman, avocat criminel moralement flexible.",
+
+    "breaking_bad": "Breaking Bad",
+    "breaking_bad_desc": "Breaking Bad a transcendé les limites de la télévision, devenant un symbole d’excellence narrative et repoussant les frontières du récit. Son impact a résonné bien au-delà de l’écran, laissant une empreinte indélébile sur la culture populaire et transformant à jamais le paysage des drames télévisés modernes.",
+
+    "bumblebee": "Bumblebee",
+    "bumblebee_desc": "Bumblebee, l’Autobot bien-aimé, part en solo dans cette histoire d’origine située dans les années 1980. Il doit protéger la Terre contre une invasion secrète des Decepticons.",
+
+    "castle_rock": "Castle Rock",
+    "castle_rock_desc": "Castle Rock est une série d’horreur psychologique inspirée des histoires de Stephen King. Située dans la ville fictive de Castle Rock, dans le Maine, la série explore des mystères interconnectés et des phénomènes surnaturels. Chaque saison se concentre sur différents personnages et intrigues de l’univers de King, mêlant tension psychologique, horreur, mystère et suspense. Réputée pour sa narration atmosphérique et ses personnages complexes, Castle Rock propose une nouvelle vision de l’univers de King avec des rebondissements inédits.",
+
+    "charliechaplin": "Charlie Chaplin",
+    "charliechaplin_desc": "L’Héritage intemporel de Charlie Chaplin est un documentaire captivant qui célèbre la vie et la carrière de l’une des figures les plus emblématiques du cinéma, Sir Charles Spencer Chaplin. Cette œuvre explore le génie de l’ère du cinéma muet, ses contributions pionnières à la comédie, au drame et à la narration cinématographique. Les spectateurs embarquent dans un voyage retraçant son parcours extraordinaire, d’artiste en difficulté à superstar mondiale.",
+
+    "chosfies": "Chosfies",
+    "chosfies_desc": "Le film *Chosfies* semble être un mélange intrigant d’action, d’aventure et d’éléments animés. Situé dans un monde fictif, il met en scène des personnages confrontés à des défis intenses et à des quêtes périlleuses qui alimentent l’intrigue. Bien que les détails spécifiques du scénario soient limités, il attire les amateurs d’aventures animées dynamiques, similaires à d’autres œuvres populaires du genre.",
+
+    "deadpool": "Deadpool",
+    "deadpool_desc": "Deadpool revient avec encore plus d’humour, d’armes et de chaos en brisant le quatrième mur. Cette fois, il affronte un nouveau méchant et une intrigue encore plus folle qui pourrait altérer les lignes temporelles.",
+
+    "dinoosaur": "Dinosaure",
+    "dinoosaur_desc": "Une aventure palpitante où les humains doivent coexister avec des dinosaures intelligents sur une île nouvellement découverte. Tous ne sont pas amicaux.",
+
+    "dragon_king": "Le Roi Dragon",
+    "dragon_king_desc": "Le Roi Dragon",
+
+    "fast_&_furious": "Fast & Furious",
+    "fast_&_furious_desc": "Les Premiers d’entre nous – Dans un monde post-apocalyptique, un petit groupe de survivants découvre les origines de la chute de l’humanité. En parcourant un paysage dangereux et désolé, ils réalisent qu’ils détiennent peut-être la clé pour reconstruire la civilisation — ou assurer son extinction définitive.",
+
+    "frzzen": "Frzzen",
+    "frzzen_desc": "Frzzen",
+
+    "game_of_heros": "Game of Heros",
+    "game_of_heros_desc": "Game of Heros est une épopée fantastique pleine d’action où le destin du monde se joue dans une bataille entre guerriers légendaires. Lorsqu’une ancienne prophétie annonce une guerre totale entre les plus grands héros de tous les royaumes, des champions venus d’époques et de dimensions différentes sont convoqués pour lutter pour la suprématie ultime. Chaque guerrier possède des capacités uniques, des armes spéciales et un passé qui le pousse vers la victoire — ou la défaite.",
+
+    "giikre": "Giikre",
+    "giikre_desc": "Giikre est un thriller de science-fiction où l’IA a pris le contrôle, et un codeur rebelle doit se battre pour restaurer la liberté de l’humanité.",
+
+    "godzilla": "Godzilla",
+    "godzilla_desc": "Baileys Irish Cream est une liqueur irlandaise à base de crème, de cacao et de whisky irlandais, produite par Diageo en République d’Irlande et à Mallusk, en Irlande du Nord.",
+
+    "guilty": "Coupable",
+    "guilty_desc": "Coupable",
+
+    "hanuman": "Hanuman",
+    "hanuman_desc": "Hanuman",
+
+    "john_wick": "John Wick",
+    "john_wick_desc": "John Wick revient avec encore plus d’action explosive alors qu’il affronte un syndicat du crime international dans une lutte pour la liberté et la rédemption.",
+
+    "joker": "Joker",
+    "joker_desc": "La descente d’un comédien raté dans la folie déclenche une révolution violente dans cette histoire d’origine glaçante du célèbre méchant.",
+
+    "jumanji": "Jumanji",
+    "jumanji_desc": "Quatre adolescents sont aspirés dans un jeu vidéo magique, et la seule façon d’en sortir est de coopérer pour terminer le jeu.",
+
+    "kali": "Kali",
+    "kali_desc": "Kali est un film d’action surnaturel inspiré du folklore, suivant une farouche guerrière née avec une colère divine et une soif insatiable de justice.",
+
+    "krishna": "Krishna",
+    "krishna_desc": "Krishna est un film de fantasy mythologique mêlant légendes anciennes et guerres modernes. La renaissance d’un guerrier divin promet de faire basculer l’équilibre dans une bataille cosmique.",
+
+    "kung_fu_panda": "Kung Fu Panda",
+    "kung_fu_panda_desc": "Kung Fu Panda est une aventure animée qui suit Po, un panda attachant et maladroit passionné de kung-fu. Ce récit raconte son parcours improbable vers le titre de Guerrier Dragon, maître des arts martiaux, protégeant ses amis et son village contre de puissants ennemis. Aux côtés des Cinq Cyclones, Po apprend la confiance en soi, la persévérance et le véritable esprit du kung-fu, combinant humour, action et émotions.",
+
+    "lost_in_space": "Perdus dans l’espace",
+    "lost_in_space_desc": "Lost in Space est une série d’aventures de science-fiction qui suit la famille Robinson, sélectionnée pour rejoindre une mission de colonie spatiale. Lorsque leur vaisseau dévie de sa trajectoire, ils se retrouvent coincés sur une planète inconnue. Alors qu’ils luttent pour survivre dans cet environnement dangereux, ils rencontrent un robot énigmatique, une vie extraterrestre étrange et une passagère clandestine, le Dr. Smith. La série explore les thèmes de la survie, des liens familiaux et de la résilience alors qu’ils cherchent un moyen de reprendre leur mission initiale.",
+
+    "midnight_hunter": "Chasseur de minuit",
+    "midnight_hunter_desc": "Chasseur de minuit",
+
+    "migration": "Migration",
+    "migration_desc": "Une aventure animée émouvante qui suit une famille d’oiseaux voyageant à travers le monde, affrontant dangers, pertes et nouvelles amitiés.",
+
+    "minions": "Les Minions",
+    "minions_desc": "Une série animée hilarante qui suit les Minions espiègles et attachants dans leurs aventures loufoques, semant le chaos et répandant des fous rires partout où ils vont !",
+
+    "movie_year": "Film de l’année",
+
+    "pirates_of_day_one": "Pirates du premier jour",
+    "pirates_of_day_one_desc": "Pirates du premier jour est une série épique et originale qui réinvente le genre pirate classique en mêlant aventure, fantasy et drame historique. Située dans un 17ᵉ siècle alternatif où existent créatures mythiques, magie ancienne et artefacts puissants, la série suit un équipage hétéroclite de pirates aux passés mystérieux. Chacun a ses propres motivations — vengeance, liberté, trésor ou secrets. Ensemble, ils forment une famille improbable, affrontant des ennemis redoutables et des monstres marins légendaires, tout en découvrant des secrets capables de changer le monde.",
+
+    "rabbit": "Rabbit",
+    "rabbit_desc": "Rabbit est un thriller psychologique qui explore la frontière floue entre réalité et illusion. Une femme se réveille sans mémoire et doit s’appuyer sur des indices épars — et des hallucinations — pour reconstruire son passé.",
+
+    "red": "Rouge",
+    "red_desc": "Rouge est une couleur vibrante et puissante, souvent associée à des émotions fortes comme l’amour, la passion et l’intensité. Dans cette vidéo, Rouge prend vie à travers des images dynamiques, mettant en avant son influence dans la nature, la culture et l’art. Des roses aux couchers de soleil, de la mode au symbolisme, la vidéo explore les nombreuses facettes de cette couleur captivante, révélant sa capacité à susciter des réactions puissantes et à laisser une impression durable.",
+
+    "reed_dog": "Chien Roseau",
+    "reed_dog_desc": "Chien Roseau",
+
+    "revenge_of_sith": "La Revanche des Sith",
+    "revenge_of_sith_desc": "La Revanche des Sith",
+
+    "season3": "Saison 3",
+    "series_today": "En séries aujourd’hui",
+
+    "sonil": "Sonil",
+    "sonil_desc": "Sonil",
+
+    "spiderman": "Spider-Man",
+    "spiderman_desc": "L’adolescent Peter Parker devient le légendaire super-héros lanceur de toiles en combattant des méchants tout en jonglant avec sa vie scolaire.",
+
+    "synchronic": "Synchronic",
+    "synchronic_desc": "Synchronic",
+
+    "the_co_noueriing": "The Co Noueriing",
+    "the_co_noueriing_desc": "Un thriller paranormal mettant en scène des artefacts hantés, d’anciennes malédictions et une équipe de chasseurs de fantômes tentant de refermer le voile entre les mondes.",
+
+    "the_crew": "L’équipage",
+    "the_crew_desc": "The Crew est une série d'action à haute intensité qui suit une équipe d'élite d'agents secrets accomplissant des missions dangereuses à travers le monde. Chaque membre apporte des compétences uniques, du piratage et du combat à l'espionnage et à la stratégie. Ensemble, ils naviguent dans un réseau d'intrigues internationales, affrontent des ennemis impitoyables et découvrent des conspirations menaçant la sécurité mondiale. Avec des scènes d'action palpitantes, des personnages complexes et des rebondissements inattendus, The Crew offre une excitation et un suspense non-stop.",
+
+    "the_dragon_king": "Le Roi Dragon",
+    "the_dragon_king_desc": "Le Roi Dragon est une épopée fantastique qui raconte l’ascension d’un jeune guerrier destiné à unir des royaumes divisés contre un dragon ancien menaçant de dévorer le monde. Avec l’aide d’alliés légendaires et d’une magie puissante, il doit affronter ses peurs et embrasser son destin pour sauver son peuple.",
+
+    "the_first_of_us": "Les Premiers d’entre nous",
+    "the_first_of_us_desc": "Dans un monde post-apocalyptique, un petit groupe de survivants découvre les origines de la chute de l’humanité. En parcourant un paysage dangereux et désolé, ils réalisent qu’ils détiennent peut-être la clé pour reconstruire la civilisation — ou assurer son extinction définitive.",
+
+    "the_hunter": "Le Chasseur",
+    "the_hunter_desc": "Un drame haletant en pleine nature sur un chasseur de primes qui découvre une communauté cachée vivant hors réseau — et les secrets qu’elle protège.",
+
+    "titanic": "Titanic",
+    "titanic_desc": "Titanic",
+
+    "toddler": "Tout-petit",
+    "toddler_desc": "Un tout-petit est un jeune enfant âgé de 1 à 3 ans, qui commence tout juste à marcher et à parler. Cette étape est marquée par un développement physique et cognitif rapide, avec des apprentissages liés à l’exploration de l’environnement, à la communication des besoins de base et à l’autonomie. Curieux et énergiques, les tout-petits pratiquent souvent des jeux qui les aident à développer des compétences motrices et sociales essentielles.",
+
+    "tf_oaler": "TF Oaler",
+    "tf_oaler_desc": "TF Oaler raconte l’ascension d’un agent renégat pris dans une toile d’espionnage et de trahison à travers les frontières internationales.",
+
+    "venom": "Venom",
+    "venom_desc": "Venom raconte l’histoire d’un journaliste qui devient l’hôte d’un symbiote extraterrestre, acquérant des pouvoirs surhumains et un double maléfique avide de chaos.",
+
+    "vikings": "Vikings",
+    "vikings_desc": "Alors que Ragnar Lodbrok, un fermier nordique, mène des raids triomphants en territoire anglais avec l’aide de ses guerriers, il finit par dominer les Vikings et devenir roi de Scandinavie.",
+
+    "war_for_the_planet": "La Guerre pour la planète",
+    "war_for_the_planet_desc": "Une conclusion épique à la saga des singes, où César doit mener sa tribu contre les restes de l’humanité dans une guerre qui décidera de l’avenir de la planète.",
+
+    "we_gare": "We Gare",
+    "we_gare_desc": "We Gare",
+
+    "yoshi": "Yoshi",
+    "yoshi_desc": "Un voyage haut en couleurs avec Yoshi, qui explore des îles enchantées, résout des énigmes et sauve ses amis de mystérieux méchants.",
+
+    "zombie_island": "L’île aux zombies",
+    "zombie_island_desc": "L’île aux zombies",
+
+    "download_quality": "Qualité de téléchargement"
+  },
+
+  "streamEpisode": {
+    "season": "Saisons",
+    "season1": "Saison 1",
+    "season2": "Saison 2",
+    "season3": "Saison 3",
+    "season4": "Saison 4",
+    "all_episode": "Tous les épisodes",
+    "latest_episodes": "Derniers épisodes",
+    "new_episode_is_released": "Un nouvel épisode est sorti :",
+
+    "episode1": "Les Pirates du Premier Jour",
+    "episode1_desc": "Les Pirates du Premier Jour est une série épique et originale qui réinvente le genre classique des pirates en mêlant aventure, fantaisie et drame historique. Située dans un monde alternatif du XVIIe siècle où existent des créatures mythiques, une magie ancienne et des artefacts puissants, la série suit un équipage hétéroclite de pirates aux origines diverses et aux passés mystérieux. Chaque personnage prend la mer pour des raisons différentes — vengeance, liberté, trésor ou secrets. Ensemble, ils forment une famille improbable en affrontant de redoutables ennemis et des monstres marins légendaires, tout en découvrant des secrets qui pourraient remodeler le monde.",
+
+    "episode2": "Mettre les Voiles",
+    "episode2_desc": "L’équipage embarque pour son voyage inaugural, affrontant sa première tempête et apprenant à se faire confiance au milieu des tensions et du mystère.",
+
+    "episode3": "Alliés Cachés",
+    "episode3_desc": "Une île secrète abrite des alliés qui pourraient changer le cours de la mission de l’équipage — s’ils sont dignes de confiance.",
+
+    "episode4": "Rivaux et Révélations",
+    "episode4_desc": "Des ennemis inattendus surgissent tandis que des vérités cachées du passé commencent à se dévoiler, menaçant l’unité de l’équipage.",
+
+    "episode5": "L’Île des Secrets",
+    "episode5_desc": "En explorant une île inexplorée, l’équipage découvre des reliques anciennes et de sombres secrets liés aux origines de la piraterie elle-même.",
+
+    "episode6": "Légendes perdues",
+    "episode6_desc": "Les légendes prennent vie lorsqu'une ancienne prophétie conduit l'équipage dans des eaux traîtresses où rien n'est ce qu'il paraît.",
+
+    "episode7": "Trahisons et liens",
+    "episode7_desc": "La confiance est brisée et des amitiés improbables sont mises à l’épreuve alors qu’une trahison frappe au cœur du navire.",
+
+    "episode8": "Eaux inexplorées",
+    "episode8_desc": "Naviguant vers l’inconnu, l’équipage affronte des vagues monstrueuses et un chaos intérieur, tandis que le danger rôde dans chaque ombre.",
+
+    "episode9": "Marées de trahison",
+    "episode9_desc": "Une mutinerie se prépare et les loyautés sont remises en question, alors que l’équipage confronte le prix du pouvoir et le sens du leadership.",
+
+    "episode10": "L’héritage de la mer",
+    "episode10_desc": "Dans un affrontement final, l’équipage doit affronter ses plus grandes peurs pour assurer son destin et l’héritage qu’il laisse derrière lui.",
+
+    "episode11": "L’éveil des drakes",
+    "episode11_desc": "Le royaume s’éveille à une menace ancienne alors que des drakes oubliés depuis longtemps s’agitent sous la ville.",
+
+    "episode12": "Rois et conspirations",
+    "episode12_desc": "Les alliances sont mises à l’épreuve et des secrets émergent tandis que des royaumes complotent dans l’ombre.",
+
+    "episode13": "Feu et lignées",
+    "episode13_desc": "Les héritages de feu et de sang se révèlent alors que des vérités sont dévoilées.",
+
+    "episode14": "Le jugement des dragons",
+    "episode14_desc": "Le chasseur fait face aux conséquences d’un pacte passé avec un clan de dragons renégats.",
+
+    "episode15": "Alliances forgées",
+    "episode15_desc": "De nouvelles alliances se forment dans le feu de la bataille qui s’intensifie.",
+
+    "episode16": "La rédemption du dragon",
+    "episode16_desc": "Un puissant dragon cherche la rédemption au cœur de la guerre.",
+
+    "episode17": "La chasse invisible",
+    "episode17_desc": "Le chasseur devient la proie lorsqu’une force invisible hante la ville.",
+
+    "episode18": "Celui que tu es prêt à perdre",
+    "episode18_desc": "Une décision déchirante redessine le destin du chasseur.",
+
+    "episode19": "Dix-neuf et cinquante",
+    "episode19_desc": "Les nombres révèlent un secret lié aux origines de la ville.",
+
+    "episode20": "La renaissance du royaume",
+    "episode20_desc": "Alors que de nouveaux pouvoirs émergent, le royaume fait face à sa renaissance… ou à son effondrement total.",
+
+    "episode21": "Échos des légendes",
+    "episode21_desc": "Les légendes résonnent à travers le temps alors que les batailles finales approchent.",
+
+    "episode22": "L’aube finale",
+    "episode22_desc": "Dans le dénouement culminant, l’aube se lève sur une nouvelle ère… ou une ruine totale.",
+
+    "episode23": "Eaux maudites",
+    "episode23_desc": "Une maladie mystérieuse se répand parmi l’équipage, liée à un objet maudit en leur possession. Forcés de chercher un remède sur une île damnée, ils affrontent les Marqués, de dangereux guerriers protégeant les secrets de l’île.",
+
+    "episode24": "Naufragés",
+    "episode24_desc": "Après une tempête brutale, l’équipage se retrouve échoué sur une île mystérieuse remplie de dangers naturels et surnaturels.",
+
+    "episode25": "Le nouveau",
+    "episode25_desc": "Un nouveau membre rejoint l’équipage, mais des soupçons surgissent car son passé reste un mystère et des accidents commencent à se produire.",
+
+    "episode26": "Confiance",
+    "episode26_desc": "Les tensions s’intensifient alors que la confiance au sein de l’équipage commence à se fissurer. Des secrets sont révélés qui pourraient compromettre la mission.",
+
+    "episode27": "Confiance",
+    "episode27_desc": "Dans cette nouvelle saison, des défis familiers refont surface alors que l’équipage doit redéfinir ce que signifie compter les uns sur les autres.",
+
+    "episode28": "Transmission finale",
+    "episode28_desc": "Un étrange signal conduit l’équipage vers un appel de détresse datant de plusieurs décennies… pour découvrir qu’il provient de l’un des leurs.",
+
+    "episode29": "Bloqués",
+    "episode29_desc": "Une anomalie gravitationnelle inattendue piège le vaisseau en orbite, forçant une manœuvre dangereuse pour s’échapper.",
+
+    "episode30": "Trois petits oiseaux",
+    "episode30_desc": "L’équipage déchiffre une berceuse extraterrestre contenant d’étranges prédictions sur leur destin, ébranlant leur confiance dans la mission.",
+
+    "episode31": "Plans sur plans",
+    "episode31_desc": "Les plans de secours échouent un à un alors qu’un sabotage est découvert dans les systèmes vitaux du vaisseau.",
+
+    "episode32": "Contact",
+    "episode32_desc": "Le premier contact est établi – mais l’espèce extraterrestre parle en énigmes, laissant l’équipage incertain s’il s’agit d’un avertissement ou d’un accueil.",
+
+    "episode33": "Le vol silencieux",
+    "episode33_desc": "Un voleur infiltré s’introduit dans le camp ennemi en temps de guerre pour voler des renseignements, mais se retrouve vite empêtré dans une conspiration dangereuse qui pourrait mettre fin à la guerre – et à sa vie.",
+
+    "episode34": "Marées de bataille",
+    "episode34_desc": "Lors d’une guerre navale féroce, deux commandants rivaux doivent se surpasser dans une bataille croissante pour le contrôle des mers, avec des conséquences dévastatrices pour leurs flottes.",
+
+    "episode35": "Canons des profondeurs",
+    "episode35_desc": "Au cœur d’une guerre navale, une flotte de navires doit repousser un ennemi mystérieux utilisant une technologie avancée, forçant les commandants à s’adapter ou à être anéantis.",
+
+    "episode36": "L’ascension des Méca-Titans",
+    "episode36_desc": "Un récit situé à l’époque viking, suivant un jeune homme qui doit prendre les armes pour défendre son village contre une force envahissante.",
+
+    "episode37": "Feu et lignées",
+    "episode37_desc": "Alors que la saison progresse, « Feu et lignées » explore plus en profondeur l’héritage des chevaucheurs de dragons et les destins liés des personnages. Une révélation choquante secoue le royaume, menant à une bataille d’honneur et au dévoilement de destins cachés.",
+
+    "episode38": "Rois et conspirations",
+    "episode38_desc": "Dans « Rois et conspirations », les enjeux montent alors que les rois rivaux luttent pour la suprématie et que leurs complots deviennent de plus en plus complexes. Le héros découvre que tout n’est pas ce qu’il paraît et doit naviguer dans une toile traîtresse de tromperie et de pouvoir.",
+
+    "episode39": "L’éveil des drakes",
+    "episode39_desc": "Dans la première de la série, « L’éveil des drakes », la terre est plongée dans le chaos alors que les dragons longtemps endormis se réveillent, déclenchant des batailles féroces et bouleversant l’équilibre des pouvoirs.",
+
+    "episode40": "Chasseur de minuit",
+    "episode40_desc": "Dans la première de la série, « Chasseur de minuit », le héros entreprend une quête pour percer les secrets du retour des dragons, alors que le royaume sombre dans les flammes et la discorde.",
+
+    "episode41": "Cœur de dragon",
+    "episode41_desc": "Un chevalier désabusé s’allie à un dragon nommé Draco pour vaincre un roi tyran. Le dragon partage son cœur avec le chevalier, créant un lien profond qui changera leur destinée.",
+
+    "episode42": "Règne de feu",
+    "episode42_desc": "Dans un monde post-apocalyptique, un groupe de survivants lutte contre des dragons cracheurs de feu ayant décimé l’humanité. C’est une bataille pour la survie dans un monde où les dragons règnent en maîtres.",
+
+    "episode43": "Peter et Elliott le dragon",
+    "episode43_desc": "Un jeune garçon nommé Peter, vivant dans la nature avec son dragon Elliott, doit affronter le monde lorsque la créature magique est découverte. Une histoire touchante d’amitié et de famille.",
+
+    "episode44": "La boîte",
+    "episode44_desc": "« La boîte » est une série sombre et pleine de suspense qui suit Sharon Pici, une détective de Kansas City enfermée dans une mystérieuse pièce sans fenêtres. Elle doit y affronter ses traumatismes et ses démons intérieurs.",
+
+    "episode45": "Couleur locale",
+    "episode45_desc": "La couleur locale est un style littéraire qui met en avant les caractéristiques uniques d’une région : coutumes, dialectes, paysages et modes de vie. Les écrivains l’utilisent pour donner authenticité et réalisme à leurs récits.",
+
+    "episode46": "Habeas Corpus",
+    "episode46_desc": "Habeas corpus est un principe juridique fondamental issu du droit anglais, protégeant contre la détention arbitraire. En l’invoquant, une personne détenue peut demander au tribunal de vérifier la légalité de son emprisonnement.",
+
+    "episode47": "Résumé Severance",
+    "episode47_desc": "La série suit Mark Scout, employé de Lumon Industries, où une procédure appelée « severance » sépare les souvenirs du travail et de la vie privée. Une exploration troublante de l’identité et du contrôle.",
+
+    "episode48": "Misery",
+    "episode48_desc": "Un écrivain célèbre, Paul Sheldon, est kidnappé par une fan obsédée, Annie Wilkes, alors qu’il se remet d’un accident. Prisonnier, il doit trouver un moyen d’échapper à sa folie violente.",
+
+    "episode49": "La ligne verte",
+    "episode49_desc": "Dans une prison de Louisiane, Paul Edgecomb, gardien, rencontre John Coffey, un détenu doté de pouvoirs surnaturels de guérison. Leurs destins s’entrelacent dans une histoire de miracles et de souffrance.",
+
+    "episode50": "La guerre des planètes",
+    "episode50_desc": "Caesar, chef des singes, lutte pour protéger son peuple contre une faction humaine militaire impitoyable menée par un colonel brutal. Une guerre pour la survie de deux espèces.",
+
+    "episode51": "Ex Machina",
+    "episode51_desc": "Un jeune programmeur participe à une expérience d’intelligence artificielle en testant les qualités humaines d’un robot nommé Ava. Une réflexion sur la conscience et la manipulation.",
+
+    "episode52": "Alliés cachés",
+    "episode52_desc": "L’équipage affronte une tempête et découvre qu’une vieille épave contient des indices sur leur carte. Hantés par des souvenirs douloureux, ils doivent aussi lutter contre des esprits tourmentés.",
+
+    "episode53": "Mettre les voiles",
+    "episode53_desc": "Un jeune marin porteur d’une mystérieuse carte rejoint le navire The Day One. Le capitaine Roarke le sauve d’une exécution, mais pirates et marine sont à leurs trousses.",
+
+    "episode54": "Da Vinci Code",
+    "episode54_desc": "Adapté du roman de Dan Brown, le film suit Robert Langdon et Sophie Neveu dans une course contre la montre pour dévoiler un secret ancien lié aux œuvres de Léonard de Vinci.",
+
+    "episode55": "Tomb Raider",
+    "episode55_desc": "Lara Croft part en quête pour résoudre la disparition de son père. Exploration, énigmes et action rythment son aventure périlleuse.",
+
+    "episode56": "Sherlock Holmes",
+    "episode56_desc": "À Londres victorienne, Holmes et Watson découvrent un complot mêlant sociétés secrètes et rituels anciens. Une aventure pleine d’esprit et d’intrigues.",
+
+    "episode57": "Rivaux et révélations",
+    "episode57_desc": "Sur une île sans loi, l’équipage rencontre une sorcière qui propose de décrypter leur carte en échange d’un service… mais son prix pourrait être trop élevé.",
+
+    "episode58": "Âmes perdues",
+    "episode58_desc": "Alors que l’alter ego du professeur de chimie émerge, les frontières entre le bien et le mal s’effondrent. Une réflexion sombre sur les conséquences des choix moraux.",
+
+    "episode59": "Le signal",
+    "episode59_desc": "Un signal mystérieux révèle la montée d’une nouvelle menace, poussant l’équipage à remettre en question sa mission et sa propre humanité.",
+
+    "episode60": "Roi des rois",
+    "episode60_desc": "Alors que la saison progresse, une révélation choque le royaume et conduit à une bataille d’honneur autour de l’héritage des chevaucheurs de dragons.",
+
+    "episode61": "Le guerrier silencieux",
+    "episode61_desc": "Un film sombre et atmosphérique sur un guerrier muet à l’époque viking qui entreprend un voyage vers le Nouveau Monde.",
+
+    "episode62": "L’ascension des Méca-Titans",
+    "episode62_desc": "Un jeune viking doit défendre son village contre une armée envahissante.",
+
+    "episode63": "Le dragon de Néo-Terre",
+    "episode63_desc": "Dans un futur post-apocalyptique, un dragon caché dans les ruines devient la clé de la survie face à une rébellion de machines.",
+
+    "episode64": "Le héros silencieux",
+    "episode64_desc": "Un artiste de rue muet dans une dystopie futuriste utilise son humour et sa créativité pour inspirer une révolution.",
+
+    "episode65": "Le Bouddha",
+    "episode65_desc": "Alors que l’alter ego du professeur émerge, la morale s’effondre et les choix deviennent des dilemmes existentiels.",
+
+    "episode66": "Changements radicaux",
+    "episode66_desc": "Une révélation secoue le royaume et oblige les personnages à redéfinir leurs loyautés et leur héritage.",
+
+    "episode67": "Ce n’est que de la magie",
+    "episode67_desc": "Un pouvoir mystérieux brouille la frontière entre réalité et illusion, forçant chacun à affronter ses croyances les plus profondes.",
+
+    "episode68": "Le radeau de la Méduse",
+    "episode68_desc": "Une tragédie en mer pousse l’équipage à la folie et à la survie dans des conditions extrêmes."
+  },
+
+  "streamPlaylist": {
+    "90s_throwback": "Retour aux années 90",
+    "blockbuster": "Superproduction",
+    "create_playlist": "Créer une playlist",
+    "create_watchlist": "Créer une liste de visionnage",
+    "information": "Veuillez remplir toutes les informations ci-dessous pour créer une nouvelle playlist.",
+    "new_playlist": "Créer une nouvelle playlist",
+    "no_active_membership": "Vous n’avez pas d’abonnement actif.",
+    "no_watchlist_available": "Aucune liste de visionnage disponible.",
+    "no_playlist_available": "Aucune playlist disponible.",
+    "my_playlist": "Ma playlist",
+    "my_watchlist": "Ma liste de visionnage",
+    "my_favourite": "Mes favoris",
+    "playlist": "Playlist",
+    "play_list1": "Playlist 1",
+    "play_list2": "Playlist 2",
+    "play_list3": "Playlist 3",
+    "play_list4": "Playlist 4",
+    "play_list5": "Playlist 5",
+    "play_list6": "Playlist 6",
+    "play_list7": "Playlist 7",
+    "public": "Publique",
+    "private": "Privée",
+    "views": "Vues",
+    "playlist_desc": "Une playlist est une collection organisée de chansons, vidéos ou autres médias pouvant être lus dans un ordre précis ou en mode aléatoire. Les playlists sont couramment utilisées dans les services de streaming musical, les plateformes vidéo et les bibliothèques personnelles pour organiser le contenu en fonction de thèmes, d’ambiances, de genres ou de préférences personnelles. Elles permettent aux utilisateurs d’accéder facilement à leur contenu préféré sans devoir rechercher chaque élément individuellement.",
+    "playlist_episode_radhe_krishna": "Histoires de Radhe Krishna",
+    "playlist_episode_unlimited": "Épisodes illimités",
+    "playlist_movie_1_movies": "1 Film",
+    "playlist_movie_2_movies": "2 Films",
+    "playlist_movie_3_movies": "3 Films",
+    "playlist_movie_4_movies": "4 Films",
+    "playlist_movie_90s_throwback": "Retour aux années 90",
+    "playlist_movie_action": "Action",
+    "playlist_movie_blockbuster_trt": "Superproduction TRT",
+    "playlist_movie_dramas": "Drames",
+    "playlist_movie_horror": "Horreur",
+    "playlist_movie_road_trip": "Films de voyage",
+    "playlist_movie_romantic": "Romantiques ...",
+    "playlist_title": "Titre de la playlist",
+    "playlist_video_chill_relax": "Détente & Relax",
+    "playlist_video_love_animals": "Amour des animaux",
+    "remove_from_watchlist": "Retirer de la liste de visionnage",
+    "road_trip_movies": "Films de voyage",
+    "romantic": "Romantiques ...",
+    "select_playlist": "Sélectionner une playlist",
+    "select_playlist_type": "Sélectionner le type de playlist",
+    "thumbnail": "Vignette de playlist",
+    "maximum_upload": "Supporte *.webp, *webp, *.gif, *.webp. Taille maximale du fichier : 5 Mo.",
+    "years_ago": "il y a ans"
+  },
+
+  "streamKeyword": {
+    "actions": "Actions",
+    "cancel": "Annuler",
+    "cancelled": "Annulé",
+    "completed": "Terminé",
+    "date": "Date",
+    "episode": "Épisode",
+    "episode1": "Épisode 1",
+    "episode2": "Épisode 2",
+    "episode3": "Épisode 3",
+    "episode4": "Épisode 4",
+    "episode5": "Épisode 5",
+    "episodes": "Épisodes",
+    "iqonic_design": "Iqonic Design",
+    "k_player": "5KPlayer",
+    "level": "Niveau",
+    "log_out": "Se déconnecter",
+    "mediamonkey": "MediaMonkey",
+    "month_age": "il y a un mois",
+    "october": "Octobre",
+    "on_hold": "En attente",
+    "order": "Commande",
+    "overview": "Aperçu",
+    "pay": "Payer",
+    "processing": "En traitement",
+    "read": "Lire",
+    "series_today": "dans la série aujourd’hui",
+    "series_tomorrow": "dans la série demain",
+    "series_yesterday": "dans la série hier",
+    "similar_like": "Similaire à ceci",
+    "this_is": "Ceci est",
+    "violent_forceful": "Violent, brutal",
+    "status": "Statut",
+    "total": "Total",
+    "trailers": "Bandes-annonces",
+    "trending": "Tendance",
+    "unread": "Non lu",
+    "view": "voir",
+    "views": "Vues"
+  },
+
+  "streamMonth": {
+    "january": "Janvier",
+    "february": "Février",
+    "march": "Mars",
+    "april": "Avril",
+    "may": "Mai",
+    "june": "Juin",
+    "july": "Juillet",
+    "august": "Août",
+    "september": "Septembre",
+    "october": "Octobre",
+    "november": "Novembre",
+    "december": "Décembre",
+    "4_week": "il y a 4 semaines",
+    "2_week": "il y a 2 semaines",
+    "3_hours": "il y a 3 heures",
+    "2_hours": "il y a 2 heures"
+  },
+
+  "streamBlogCategory": {
+    "comedy": "comédie",
+    "comedies": "comédies",
+    "history": "historique",
+    "movy": "film",
+    "movie_trailers": "movie trailers",
+    "trailer": "bandes-annonces",
+    "drama": "drames",
+    "dramas": "drame",
+    "thrill": "suspense",
+    "mystery": "mystère",
+    "tv_comedies": "comédies TV",
+    "tv_rumors": "rumeurs TV",
+    "tv_series": "séries TV"
+  },
+
+  "streamBlogTag": {
+    "tv_series": "séries TV",
+    "movy": "film",
+    "comedy": "comédie",
+    "comedies": "comédies",
+    "tv_comedies": "comédies TV",
+    "history": "historique",
+    "tv_rumors": "rumeurs TV",
+    "trailer": "bandes-annonces"
+  },
+
+  "streamBlog": {
+    "blog_listing": "Liste des blogs",
+
+    "blog1": "Séries anthologiques : des histoires qui nous tiennent en haleine",
+    "blog1_desc": "Une série anthologique remplie d'histoires captivantes qui nous tiennent en haleine jusqu'à la fin. Chaque récit se déroule avec des rebondissements et des surprises, laissant le spectateur deviner jusqu’au bout.",
+
+    "blog2": "Les effets spéciaux qui donnent vie aux films",
+    "blog2_desc": "Praesent iaculis, purus ac vehicula mattis, arcu lorem blandit nisl, non laoreet dui mi eget elit. Donec porttitor ex vel augue maximus luctus. Vivamus finibus nibh eu nunc volutpat suscipit.",
+
+    "blog3": "Les cliffhangers : l’art secret des séries TV",
+    "blog3_desc": "Praesent iaculis, purus ac vehicula mattis, arcu lorem blandit nisl, non laoreet dui mi eget elit. Donec porttitor ex vel augue maximus luctus. Vivamus finibus nibh eu nunc volutpat suscipit. Nam vulputate libero quis nisi euismod rhoncus. Sed eu euismod felis. Aenean ullamcorper dapibus odio ac tempor. Aliquam iaculis, quam vitae imperdiet consectetur, mi ante […]",
+
+    "blog4": "Duos légendaires à l’écran qui ont perduré",
+    "blog4_desc": "Sed leo elit, volutpat quis aliquet eu...",
+
+    "blog5": "Les courts-métrages prospèrent sur les plateformes de streaming",
+    "blog5_desc": "Découvrez comment les courts-métrages trouvent un nouveau public et changent le paysage du divertissement.",
+
+    "blog6": "Des mondes fantastiques bien-aimés qui éveillent notre imagination",
+    "blog6_desc": "Explorez les séries fantastiques les plus immersives qui conquièrent les cœurs à travers le monde.",
+
+    "blog7": "Du box-office au canapé : le changement de visionnage des films",
+    "blog7_desc": "Potenti fusce himenaeos hac aenean quis donec vivamus aliquet...",
+
+    "blog8": "Dans les coulisses : la fabrication de vos émissions préférées",
+    "blog8_desc": "Nisi habitasse viverra praesent a maecenas odio erat tristique praesent elementum...",
+
+    "blog9": "Les meilleurs films indépendants à voir en streaming",
+    "blog9_desc": "Célébrez les pépites indépendantes qui font sensation dans l’univers du divertissement numérique.",
+
+    "blog10": "Quand le gaming rencontre le streaming",
+    "blog10_desc": "Un regard sur la façon dont le jeu vidéo et l’esport se taillent une place dans l’industrie du streaming.",
+
+    "blog11": "Pourquoi les films d’horreur sont-ils si addictifs ?",
+    "blog11_desc": "Plongez dans le monde de l’horreur et découvrez ce qui pousse les spectateurs à y revenir encore et encore.",
+
+    "blog12": "L’or de la comédie : les séries TV les plus drôles à regarder",
+    "blog12_desc": "Une sélection triée sur le volet de comédies hilarantes pour illuminer votre journée. Elle présente un éventail varié de styles comiques : comédies romantiques, comédies de bureau pleines d’esprit, comédies d’action à mourir de rire et films familiaux émouvants. Préparez-vous à rire aux éclats avec ce booster de bonne humeur garanti.",
+
+    "blog13": "Films d’animation familiaux : l’histoire d’un succès en streaming",
+    "blog13_desc": "Découvrez comment les films d’animation familiaux sont devenus le cœur des plateformes de streaming, captivant des publics de tous âges grâce à leur charme intemporel et leur attrait universel.",
+
+    "blog14": "Les films les plus attendus de l’année",
+    "blog14_desc": "Accrochez-vous, cinéphiles ! La programmation de cette année regorge d’aventures palpitantes, d’histoires réconfortantes et de spectacles époustouflants. Découvrez les films incontournables qui font déjà le buzz.",
+
+    "blog15": "Ma perle noire du streaming",
+    "blog15_desc": "Univers fantastiques bien-aimés qui enflamment notre imagination",
+
+    "comment": "Commentaire",
+    "comments": "Commentaires",
+    "search": "Rechercher...",
+    "search1": "Rechercher",
+    "recent_post": "Article récent",
+    "quotes": "Simon Doe met sa langue dans sa joue en décrivant les compétences fictives de son agent en progression.",
+    "quotes_author": "Steve Kowalsky",
+    "scarlett_backlash": "Scarlett se retire du rôle d’un homme transgenre après une polémique"
+  },
+
+  "streamPages": {
+    "about_us": "À propos de nous",
+    "audio": "Audio",
+    "blog": "Blog",
+    "blog_grid": "Grille du blog",
+    "blog_infinite_scroll": "Défilement infini du blog",
+    "blog_load_more": "Charger plus de blogs",
+    "blog_pagination": "Pagination du blog",
+    "blog_sidebar": "Barre latérale du blog",
+    "blog_single": "Article de blog",
+    "blog_template": "Modèle de blog",
+    "cart_page": "Panier",
+    "cast": "Distribution",
+    "checkout_page": "Paiement",
+    "column": "Colonne",
+    "coming_soon": "Bientôt disponible",
+    "contact_us": "Contactez-nous",
+    "download_movie": "Télécharger le film",
+    "error_404": "Erreur 404",
+    "error_page": "Page d’erreur",
+    "faq": "FAQ",
+    "features": "Fonctionnalités",
+    "gallery": "Galerie",
+    "geners": "Genres",
+    "home": "Accueil",
+    "mainHome": "Page d'accueil principale",
+    "left_sidebar": "Blog avec barre latérale gauche",
+    "link": "Lien",
+    "listing": "Liste",
+    "merchandise_store": "Boutique de produits dérivés",
+    "movie": "Film",
+    "movie_genres": "Genres de films",
+    "movie_tag": "Étiquette de film",
+    "my_account_page": "Mon compte",
+    "order_tracking": "Suivi de commande",
+    "ott_home": "Accueil OTT",
+    "pages": "Pages",
+    "pagination_style": "Style de pagination",
+    "playlist": "Playlist",
+    "privacy_policy": "Politique de confidentialité",
+    "pricing_plan": "Plan tarifaire",
+    "quote": "Citation",
+    "related_merchandise": "Produits dérivés associés",
+    "restricted_content": "Contenu restreint",
+    "right_sidebar": "Blog avec barre latérale droite",
+    "shop": "Boutique",
+    "standard": "Standard",
+    "tags": "Étiquettes",
+    "terms_and_use": "Conditions d’utilisation",
+    "tv_show": "Série TV",
+    "tv_show_genres": "Genres de séries TV",
+    "tv_show_tag": "Tag de série TV",
+    "video": "Vidéo",
+    "video_genres": "Genres de vidéos",
+    "video_tag": "Étiquette de vidéo",
+    "wishlist": "Liste de souhaits",
+    "wishlist_page": "Page de la liste de souhaits",
+    "1_column_blog": "Blog une colonne",
+    "2_column_blog": "Blog deux colonnes",
+    "3_column_blog": "Blog trois colonnes",
+    "4_column_blog": "Blog quatre colonnes"
+  },
+
+  "streamAccount": {
+    "admin": "admin",
+    "apartment": "Apartment",
+    "arlene": "arlene",
+    "best_deals": "Abonnez-vous à nos meilleures offres",
+    "billing_address": "Adresse de facturation",
+    "customer@stremit": "customer@streamit.com",
+    "customer_services": "services clients",
+    "customer_support": "Support client",
+    "city_region": "Ville / Région",
+    "download_app": "Télécharger l’application Streamit",
+    "display_name": "Displayed Name",
+    "desc": "Tous droits réservés. Toutes les vidéos et émissions sur cette plateforme sont des marques déposées, et toutes les images et contenus associés sont la propriété de Streamit Inc. Toute duplication ou copie est strictement interdite.",
+    "email": "E-mail",
+    "email_anyone": "Nous promettons de ne pas partager votre e-mail avec qui que ce soit",
+    "email_us": "Envoyez-nous un e-mail",
+    "edit": "Éditer",
+    "favorites": "Favoris",
+    "freya": "freya",
+    "help": "Aide ?",
+    "jack_stark": "Jack Stark",
+    "jenny": "Jenny",
+    "jerry": "jerry",
+    "leslie": "leslie",
+    "logout": "Déconnexion",
+    "lost_password": "Mot de passe oublié ?",
+    "logged_jenny": "Connecté en tant que Jenny.",
+    "log_in": "Connexion",
+    "my_account": "Mon compte",
+    "notification": "Notification",
+    "password": "Mot de passe",
+    "password_change": "Password Change",
+    "current_password": "Current Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm New Password",
+    "profile": "Profil",
+    "placeholder_enter_email": "Entrez votre e-mail",
+    "search_dot": "Recherche...",
+    "subscribe": "S’abonner",
+    "subscription": "Abonnement",
+    "username": "Nom d’utilisateur",
+    "username_or_email": "Nom d’utilisateur ou adresse e-mail",
+    "watch_list": "Liste de visionnage",
+    "watchlist": "Liste de visionnage",
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "company_name": "Nom de l’entreprise (optionnel)",
+    "country_region": "Pays / Région",
+    "country": "Pays",
+    "chooes_country": "Choisissez un pays",
+    "india": "Inde",
+    "united_kindom": "Royaume-Uni",
+    "united_states": "États-Unis",
+    "australia": "Australie",
+    "north_corea": "Corée du Nord",
+    "street_address": "Adresse",
+    "town_city": "Ville",
+    "state": "État / Province",
+    "choose": "Choisissez un État",
+    "gujrat": "Gujarat",
+    "dehli": "Delhi",
+    "goa": "Goa",
+    "haryana": "Haryana",
+    "ladakh": "Ladakh",
+    "pin_code": "Code postal",
+    "phone": "Téléphone",
+    "email_address": "Adresse e-mail",
+    "save_name": "Enregistrer mon nom, mon e-mail et mon site web dans ce navigateur pour la prochaine fois que je commenterai.",
+    "name": "Nom",
+    "john_deo": "john deo",
+    "company": "Entreprise",
+    "colorado": "Colorado",
+    "alaska": "Alaska",
+    "hawai": "Hawaï",
+    "texas": "Texas",
+    "washington_manchester": "Washington Manchester",
+    "helpline_number": "Numéro d'assistance"
+  },
+
+  "streamShopTag": {
+    "camera": "Caméra",
+    "costume": "Costume",
+    "lighting": "Éclairage",
+    "production": "Production",
+    "studios": "Studios"
+  },
+
+  "streamShop": {
+    "product_detail": "Détail du produit",
+    "activeman": "Activeman",
+    "avengers": "Avengers",
+    "cheque_payments": "Paiements par chèque",
+    "disney_world": "Monde de Disney",
+    "fantasia": "Fantasia",
+    "galaxy_heaven": "Paradis Galactique",
+    "ghost_spider": "Araignée Fantôme",
+    "harry_david": "Harry David",
+    "haunted_halloween": "Halloween Hanté",
+    "studios": "Studios",
+    "monster_house": "Maison Monstre",
+    "quid_game": "Jeu du Calmar",
+    "the_madrid": "Le Madrid",
+    "the_chapion": "Le Champion",
+    "the_flashv": "The Flashv",
+    "the_champion": "Le Champion",
+    "marvel_studios": "Studios Marvel",
+    "warner_bros_films": "Films Warner Bros",
+    "captian_america": "Captain America",
+    "deadpool": "DeadPool",
+
+    "lorem_ipsum": "Le Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition.",
+    "wear_streamit": "Portez Streamit, Achetez Streamit et Aimez Streamit",
+    "buy_exclusive": "Achetez des produits Streamit exclusifs dans notre boutique et bénéficiez d'avantages incroyables.",
+    "our_multiple": "Nos emplacements multiples",
+    "thornridge_cir": "Thornridge Cir. Syracuse, Connecticut",
+    "working_hours": "Heures de travail",
+    "uptight_birds": "Oiseaux Tendues",
+
+    "product_categories": "Catégories de Produits",
+    "uncategorized": "Non classé",
+    "warner_bro_films": "Films Warner Bro",
+
+    "sale!": "Promo !",
+    "new!": "Nouveau !",
+    "reviews": "Avis",
+    "reviews_believe_mask": "Avis pour Believe Mask",
+    "sku": "SKU",
+    "qty": "Qté :",
+    "description": "Description",
+    "additional_information": "Informations Supplémentaires",
+
+    "desc1": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+    "desc2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+
+    "greeting_name": "Marvin McKinney",
+    "price": "Prix",
+    "color": "Couleur",
+    "size": "Taille",
+    "your_review": "Votre avis",
+    "your_rating": "Votre note",
+    "lighting": "Éclairage",
+    "subtotal": "Sous-total",
+    "total": "Total",
+    "product": "Produit",
+
+    "published_email": "Votre adresse e-mail ne sera pas publiée.",
+    "required_fields": "Les champs obligatoires sont indiqués",
+    "view_product": "voir le produit",
+    "shopping_cart": "Panier",
+    "price_filter": "FILTRER PAR PRIX",
+    "product_size": "TAILLE DU PRODUIT",
+
+    "default_sorting": "Tri par défaut",
+    "sort_by_popularity": "Trier par popularité",
+    "sort_by_rating": "Trier par note moyenne",
+    "sort_by_latest": "Trier par nouveauté",
+    "price_low_to_high": "Trier par prix : du plus bas au plus élevé",
+    "price_high_to_low": "Trier par prix : du plus élevé au plus bas",
+
+    "showing": "Affichage de 1–10 sur 31 résultats",
+    "showing_all": "Affichage de tous les résultats",
+    "showing_single": "Affichage d’un seul produit",
+
+    "checkout": "Paiement",
+    "my_wishlist": "Ma liste de souhaits",
+    "product_name": "Nom du produit",
+    "unit_price": "Prix unitaire",
+    "stock_status": "État du stock",
+    "order_summary": "Résumé de la commande",
+
+    "coupon": "Code promo",
+    "coupon_code": "Code de réduction",
+    "have_a_coupon": "Vous avez un code promo ?",
+    "apply_coupon_code": "Si vous avez un code promo, appliquez-le ci-dessous.",
+
+    "quantity": "Quantité",
+    "cart": "Panier",
+    "cart_total": "Total du panier",
+    "proceed_to_checkout": "Passer à la caisse",
+    "place_order": "Passer la commande",
+    "enter_code": "Cliquez ici pour entrer votre code",
+    "thankyou": "Merci. Votre commande a été reçue.",
+
+    "order_number": "NUMÉRO DE COMMANDE :",
+    "billing_details": "Détails de facturation",
+    "order_notes": "Notes de commande (optionnel)",
+    "order_notes_eg": "Notes concernant votre commande, par ex. instructions spéciales de livraison.",
+
+    "bank_transfer": "Virement bancaire direct",
+    "make_direct_payment": "Effectuez votre paiement directement sur notre compte bancaire. Veuillez utiliser votre identifiant de commande comme référence de paiement. Votre commande ne sera pas expédiée tant que les fonds n’auront pas été reçus.",
+    "cheque_payment": "Paiement par chèque",
+    "cod": "Paiement à la livraison",
+
+    "your_personal_data": "Vos données personnelles seront utilisées pour traiter votre commande, soutenir votre expérience sur ce site, et pour d’autres finalités décrites dans notre",
+    "privacy_policy": "politique de confidentialité",
+
+    "dashboard": "Tableau de bord",
+    "orders": "Commandes",
+    "downloads": "Téléchargements",
+    "addresses": "Adresses",
+    "account_details": "Détails du compte",
+    "logout": "Se déconnecter",
+
+    "greeting_hello": "Bonjour",
+    "greeting_notYou": "pas Marvin McKinney ?",
+    "greeting_logout": "Se déconnecter",
+    "dashboard_intro": "Depuis votre tableau de bord, vous pouvez consulter vos",
+    "dashboard_manageYour": "gérer vos",
+    "dashboard_and": "et",
+    "dashboard_orders": "commandes récentes",
+    "dashboard_addresses": "adresses de livraison et de facturation",
+    "dashboard_editDetails": "modifier votre mot de passe et les détails de votre compte",
+
+    "order_history": "Historique des commandes",
+    "download_remaining": "Téléchargements Restants",
+    "expires": "Expire",
+    "download": "Télécharger",
+    "electric_toothbrush": "Brosse à dents électrique",
+    "never": "Jamais",
+
+    "default_addresses": "Les adresses suivantes seront utilisées par défaut sur la page de paiement.",
+    "billing_addess": "Adresse de facturation",
+    "shipping_address": "Adresse de livraison",
+    "remember_me": "Se souvenir de moi",
+
+    "user_personal_data": "Vos données personnelles seront utilisées pour soutenir votre expérience sur ce site, gérer l’accès à votre compte et pour d’autres finalités décrites dans notre",
+    "payment_method": "Mode de paiement :",
+    "in_stock": "En stock",
+    "order_details": "Détails de la commande",
+
+    "name_ginger": "Ginger Gaines",
+    "company_chase": "Chase Hawkins Traders",
+    "address_24white": "24 White",
+    "name_fabien": "Fabien Lane",
+    "latin_quasi": "Quasi sint ad sit",
+    "latin_etvol": "Et voluptatem ut se",
+    "country_india": "Inde",
+    "country_virgin": "Îles Vierges (britanniques)",
+
+    "product1": "Sac à dos",
+    "product1_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product2": "Masque Believe",
+    "product2_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product3": "Noeud Papillon Noir",
+    "product3_desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+
+    "product4": "Casquette Noire",
+    "product4_desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+
+    "product5": "Gants de Boxe",
+    "product5_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product6": "Sac de Transport",
+    "product6_desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+
+    "product7": "Personnage de Dessin Animé",
+    "product7_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product8": "Tasse à Café",
+    "product8_desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+
+    "product9": "Couronne",
+    "product9_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product10": "Journal Quotidien",
+    "product10_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product11": "Livre de Maquillage",
+    "product11_desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+
+    "product12": "Boîte Médicale",
+    "product12_desc": "Il existe de nombreuses variations de passages du Lorem Ipsum disponibles, mais la majorité ont subi des altérations sous une forme ou une autre, par de l'humour injecté, ou des mots aléatoires qui ne semblent même pas crédibles.",
+
+    "product13": "Bouteille de Gel Hydroalcoolique",
+    "product13_desc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+  },
+
+  "streamTooltip": {
+    "like": "J’aime",
+    "un-like": "Je n’aime plus",
+    "premium": "Premium",
+    "add_to_watchlist": "Ajouter à la liste de visionnage",
+    "remove_from_watchlist": "Retirer de la liste de visionnage",
+    "share": "Partager",
+    "download": "Télécharger",
+    "reset_all_settings": "Réinitialiser tous les paramètres",
+    "remove_from_list": "Retirer de la liste",
+    "mark_as_read": "Marquer comme lu",
+    "playlist": "Liste de lecture"
+  },
+
+  "streamAbout": {
+    "about_streamit": "À propos de la plateforme OTT Streamit",
+    "about_streamit_desc": "Bienvenue sur Streamit, une plateforme de streaming nouvelle génération développée avec fierté par Iqonic Design. Nous sommes spécialisés dans la création de solutions numériques innovantes, et Streamit est notre dernière avancée dans le monde du divertissement en ligne. Que vous soyez amateur de films, accro aux séries ou fan d’événements en direct, notre plateforme est conçue pour diffuser du contenu de haute qualité directement sur vos appareils, garantissant une expérience fluide et sans interruption. Streamit combine une technologie de pointe avec une interface conviviale pour séduire un public mondial.",
+    "about_streamit_desc_two": "Chez Iqonic Design, notre objectif est de révolutionner la consommation de contenus numériques grâce à Streamit, une plateforme de streaming rapide, fiable et personnalisée. Construite avec une technologie de pointe, elle offre une qualité de diffusion supérieure, des recommandations adaptées et un système intuitif de gestion de contenu. Notre mission est de rendre le divertissement fluide et accessible, partout et à tout moment.",
+    "barry_tech": "Barry Tech",
+    "ceo": "PDG",
+    "designer": "Designer",
+    "developer": "Développeur",
+    "kep_john": "Kep John",
+    "mastermind_team": "Équipe des cerveaux",
+    "month": "Mois",
+    "monty_rock": "Monty Rock",
+    "no_commitment": "—Sans engagement !",
+    "start_free_trail": "Commencer l’essai gratuit",
+    "streamit_build": "Votre Streamit est développé par l’un des meilleurs développeurs web expérimentés et auteur Envato Elite récompensé.",
+    "tonny_smith": "Tonny Smith",
+    "ultimate_exp": "Votre expérience de streaming ultime commence ici. Rejoignez-nous dès maintenant",
+    "ultimate_exp_dec": "Profitez d’un streaming illimité pendant",
+    "why_choose_streamit": "Pourquoi choisir Streamit",
+    "why_choose_streamit_desc": "Découvrez un divertissement nouvelle génération avec Streamit, la plateforme de streaming de confiance qui offre un contenu fluide, une commodité inégalée et un divertissement de haute qualité. Que vous regardiez un film ou une série, Streamit garantit une expérience premium à chaque fois.",
+    "why_choose_streamit_list_four": "Paiement sécurisé et abonnements sans tracas",
+    "why_choose_streamit_list_four_desc": "Démarrez en quelques secondes avec des transactions 100 % sécurisées.",
+    "why_choose_streamit_list_one": "Films et séries dans tous les genres",
+    "why_choose_streamit_list_one_desc": "Plongez dans une bibliothèque variée de contenus populaires, des blockbusters aux exclusivités originales.",
+    "why_choose_streamit_list_three": "99,9 % de disponibilité et streaming sans interruption",
+    "why_choose_streamit_list_three_desc": "Conçu pour la vitesse et la fiabilité, Streamit assure un divertissement ininterrompu.",
+    "why_choose_streamit_list_two": "Recommandations basées sur l’IA",
+    "why_choose_streamit_list_two_desc": "Profitez de suggestions personnalisées adaptées à vos préférences de visionnage.",
+    "work_best": "Travaillez avec les meilleurs"
+  },
+
+  "streamContact": {
+    "advertising": "Publicité",
+    "advertising_desc": "Vous souhaitez faire de la publicité avec nous ? Contactez notre équipe publicitaire.",
+    "business_inquiries": "Demandes commerciales",
+    "business_inquiries_desc": "Pour les partenariats, licences ou questions liées aux médias, veuillez contacter notre équipe commerciale.",
+    "call_us": "Appelez-nous",
+    "call_us_desc": "Parlez directement avec un membre de notre équipe pour obtenir de l’aide.",
+    "contact_form_fill": "Remplissez le formulaire de contact, et un membre de notre équipe vous répondra rapidement.",
+    "contact_form_fill_check": "Enregistrer mon nom, mon email et mon site web dans ce navigateur pour la prochaine fois que je commenterai.",
+    "get_in_touch_anytime": "Contactez-nous à tout moment",
+    "help_and_support": "Aide & support",
+    "help_and_support_desc": "Besoin d’une assistance rapide et fiable ? Notre équipe est toujours prête à vous aider.",
+    "press_inquiries": "Demandes presse",
+    "press_inquiries_desc": "Pour toute demande médiatique ou produit, notre équipe presse est là pour vous aider.",
+    "send_message": "Envoyer un message",
+    "start_the_conversation": "Démarrer la conversation",
+    "visit_or_write_us": "Si vous souhaitez nous rendre visite ou nous écrire :",
+    "visit_us": "Venez nous voir",
+    "visit_us_address": "Streamit Siège Social123",
+    "visit_us_address1": "Streaming Lane, Suite 100 Media City,",
+    "visit_us_address2": "CA 90210, États-Unis"
+  },
+
+  "streamFaq": {
+    "desc": "C’est un fait bien établi qu’un lecteur sera distrait par le contenu lisible d’une page lorsqu’il en regarde la mise en page. L’intérêt d’utiliser le Lorem Ipsum est qu’il possède une distribution de lettres plus ou moins normale, contrairement à « Contenu ici, contenu ici », ce qui lui donne l’apparence d’un vrai texte en anglais lisible.",
+    "manage_notification": "Comment puis-je gérer mes notifications ?",
+    "video_issue": "Je rencontre des problèmes de lecture vidéo. Que faire ?",
+    "what_benefits": "Quels avantages ai-je avec les forfaits ?",
+    "what_is_streamit": "Qu’est-ce que Streamit ?",
+    "will_account": "Mon compte fonctionnera-t-il en dehors de mon pays ?"
+  },
+
+  "streamCountdown": {
+    "days": "Jours",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "seconds": "Secondes"
+  },
+
+  "streamPrivacy_Policy": {
+    "cookies_web": "Cookies et balises web",
+    "desc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis nisl dignissim, placerat diam ac, egestas ante. Morbi varius quis orci feugiat hendrerit. Morbi ullamcorper consequat justo, in posuere nisi efficitur sed. Vestibulum semper dolor id arcu finibus volutpat. Integer condimentum ex tellus, ac finibus metus sodales in. Proin blandit congue ipsum ac dapibus. Integer blandit eros elit, vel luctus tellus finibus in. Aliquam non urna ut leo vestibulum mattis ac nec dolor. Nulla libero mauris, dapibus non aliquet viverra, elementum eget lorem.",
+    "desc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis nisl dignissim, placerat diam ac, egestas ante. Morbi varius quis orci feugiat hendrerit. Morbi ullamcorper consequat justo, in posuere nisi efficitur sed.",
+    "desc3": "Vestibulum semper dolor id arcu finibus volutpat. Integer condimentum ex tellus, ac finibus metus sodales in. Proin blandit congue ipsum ac dapibus. Integer blandit eros elit, vel luctus tellus finibus in. Aliquam non urna ut leo vestibulum mattis ac nec dolor. Nulla libero mauris, dapibus non aliquet viverra, elementum eget lorem.",
+    "disclousure": "Divulgation – Confidentialité des enfants",
+    "processing_globally": "Traitement mondial",
+    "third_party": "Passerelle de paiement tiers – Informations financières",
+    "transfer_storage": "Transfert et stockage des données",
+    "waht_personal": "Quelles informations personnelles sur les utilisateurs Streamit collecte-t-il ?"
+  },
+
+  "streamPricing": {
+    "active": "Actif",
+    "basic_plan": "Forfait Basique",
+    "benifits_of_streamit": "Profitez de tous les avantages de Streamit",
+    "free": "Gratuit",
+    "free_movies": "Films et séries sans publicité",
+    "lifetime": "À vie",
+    "month": "Mois",
+    "paid": "Payant",
+    "premium": "Premium",
+    "premium_plan": "Forfait Premium",
+    "save": "Économiser",
+    "standard_plan": "Forfait Standard",
+    "streamit_special": "Offre spéciale Streamit",
+    "video_quality": "Qualité vidéo maximale",
+    "watch_on_tv": "Regarder sur TV ou ordinateur portable"
+  },
+
+  "streamError": {
+    "back_home": "Retour à l’accueil",
+    "ohhh_no": "Ohhh non..! Vous vous êtes perdu dans votre imagination.",
+    "professional_ideas": "Nous reviendrons avec de nouvelles idées professionnelles",
+    "requested_page": "La page demandée n’existe pas.",
+    "something_wrong": "Oups ! Une erreur s’est produite"
+  },
+
+  "streamSetting": {
+    "color_customizer": "Personnalisation des couleurs",
+    "hotstar": "Hotstar",
+    "hulu": "Hulu",
+    "live_customizer": "Personnalisation en direct",
+    "ltr": "LTR",
+    "netflix": "Netflix",
+    "prime": "Prime",
+    "rtl": "RTL"
+  },
+
+  "stream_terms_of_uses": {
+    "all_right_reserved": "Tous droits réservés",
+    "cookies_enabled": "JavaScript et cookies activés",
+    "firefox": "Dernière version de Firefox",
+    "google_chrome": "Dernière version de Google Chrome",
+    "powered_by": "Propulsé par",
+    "processing_globally": "Traitement mondial",
+    "safari": "Dernière version de Safari",
+    "streamit_website": "Le site Streamit fonctionne de manière optimale avec",
+    "terms_1_p1": "Le site Streamit propose des services de streaming pour divers contenus de divertissement, notamment des films, des séries TV et des documentaires.",
+    "terms_1_p2": "En accédant ou en utilisant le site Streamit, vous acceptez de respecter les présentes Conditions d’utilisation.",
+    "terms_1_p3": "Streamit exige que les utilisateurs disposent de la dernière version de navigateurs compatibles tels que Google Chrome, Firefox ou Safari, avec JavaScript et les cookies activés pour des performances optimales.",
+    "terms_1_title": "1. Description du service et acceptation des conditions d’utilisation",
+    "terms_2_p1": "Streamit propose des services par abonnement permettant d’accéder à du contenu et des fonctionnalités exclusifs.",
+    "terms_2_p2": "Les abonnés bénéficient d’un vaste catalogue de vidéos de haute qualité, d’un streaming sans publicité et de recommandations personnalisées.",
+    "terms_2_p3": "Les abonnements sont disponibles sur une base mensuelle ou annuelle, avec des options tarifaires flexibles pour répondre aux préférences des utilisateurs.",
+    "terms_2_title": "2. Services d’abonnement",
+    "terms_3_p1": "Pour faciliter les paiements des abonnements, Streamit utilise une passerelle de paiement tierce.",
+    "terms_3_p2": "Les utilisateurs doivent fournir des informations financières telles que les détails de carte bancaire ou les comptes PayPal afin de traiter les paiements en toute sécurité.",
+    "terms_3_p3": "Streamit garantit que toutes les transactions financières sont cryptées et conformes aux protocoles de sécurité standards de l’industrie afin de protéger les données des utilisateurs.",
+    "terms_3_title": "3. Passerelle de paiement tiers – Informations financières",
+    "terms_4_p1": "Streamit s’engage à protéger la vie privée des enfants qui utilisent ses services.",
+    "terms_4_p2": "Les utilisateurs de moins de 13 ans doivent obtenir le consentement parental avant d’accéder à certaines fonctionnalités ou de fournir des informations personnelles.",
+    "terms_4_p3": "Streamit ne collecte ni ne sollicite sciemment d’informations personnelles auprès d’enfants de moins de 13 ans sans consentement parental.",
+    "terms_4_title": "4. Confidentialité des enfants",
+    "terms_5_p1": "En utilisant les services de Streamit, les utilisateurs reconnaissent et acceptent que leurs données personnelles puissent être transférées, stockées et traitées à l’échelle mondiale.",
+    "terms_5_p2": "Les transferts de données peuvent avoir lieu entre des serveurs situés dans différents pays afin d’assurer une expérience de streaming fluide et d’améliorer la qualité du service.",
+    "terms_5_p3": "Streamit respecte les réglementations sur la protection des données et met en œuvre des mesures appropriées pour garantir la sécurité et la confidentialité des données des utilisateurs lors des transferts et traitements mondiaux.",
+    "terms_5_title": "5. Transfert, stockage et traitement mondial des données"
+  },
+
+  "streamForm": {
+    "amy_admas": "Pourquoi Amy Adams a toujours rêvé de travailler",
+    "categories": "Catégories",
+    "create_account": "Créez votre compte",
+    "desc_enter1": "Veuillez entrer votre nom d’utilisateur ou votre adresse e-mail. Vous recevrez un lien pour créer un nouveau mot de passe par e-mail.",
+    "edit_profile": "Modifier votre profil. Se déconnecter ?",
+    "gillian_shares": "Gillian Anderson partage les photos de The Crown",
+    "if-you-are-new": "Vous êtes nouveau ?",
+    "leave_reply": "Laisser une réponse",
+    "next_post": "Article suivant",
+    "no-app-config": "Aucune application configurée. Veuillez contacter votre administrateur.",
+    "post_comment": "Publier un commentaire",
+    "previous_post": "Article précédent",
+    "register": "S’inscrire",
+    "require_fields": "Les champs obligatoires sont marqués"
+  },
+
+  "streamSweetalert": {
+    "added": "Ajouté !",
+    "added_to_cart": "Votre article a été ajouté au panier.",
+    "added_to_wishlist": "Votre article a été ajouté à la liste de souhaits.",
+    "cancel_btn": "Annuler",
+    "delete_btn": "Oui, supprimez-le !",
+    "delete_title": "Êtes-vous sûr ?",
+    "deleted": "Supprimé !",
+    "deleted_text": "Votre article a été supprimé.",
+    "ok_btn": "Ok",
+    "text": "Vous voulez supprimer cet article"
+  },
+
+  "streamProfile": {
+    "amount_paid_info": "10,00 $ payés le 18 février 2025",
+    "bill_to_label": "Facturer à",
+    "bill_to_value": "Boîte postale 16122",
+    "bill_to_value-2": "Collins Street West",
+    "bill_to_value-3": "Victoria 8007",
+    "bill_to_value-4": "États-Unis",
+    "button_cancel": "Annuler",
+    "button_change_password": "Changer le mot de passe",
+    "button_update_profile": "Mettre à jour le profil",
+    "change_password": "Changer le mot de passe",
+    "choose_membership_level": "Choisissez un niveau d’adhésion.",
+    "form_heading": "Changer le mot de passe",
+    "form_heading_account_info": "Informations du compte",
+    "label_confirm_password": "Confirmer le nouveau mot de passe",
+    "label_current_password": "Mot de passe actuel",
+    "label_display_name": "Nom affiché publiquement comme",
+    "label_membership_confirmation": "Confirmation d’adhésion",
+    "label_membership_levels": "Niveaux d’adhésion",
+    "label_membership_orders": "Commandes d’adhésion",
+    "label_new_password": "Nouveau mot de passe",
+    "marvin": "Marvin",
+    "mckinney": "McKinney",
+    "membership_order_info": "Vous trouverez ci-dessous des détails concernant votre compte d’adhésion et un reçu pour votre commande initiale. Un e-mail de bienvenue avec une copie de votre commande initiale a été envoyé à",
+    "membership_thank_you": "Merci pour votre adhésion à Streamit. Votre abonnement au Plan Basique est maintenant actif.",
+    "my_memberships": "Mes adhésions",
+    "nav_view_all_orders": "← Voir toutes les commandes",
+    "nav_view_membership_account": "Voir votre compte d’adhésion →",
+    "order_date_label": "Date de commande",
+    "order_date_value": "18 février 2025",
+    "order_status_paid": "Payé",
+    "order_title": "Commande #51311C6265",
+    "password_hint": "Indice : Le mot de passe doit comporter au moins douze caractères. Pour le renforcer, utilisez des majuscules et des minuscules, des chiffres et des symboles comme ! \" ? $ % ^ & ).",
+    "pay_to_label": "Payer à",
+    "pay_to_value": "Streamit",
+    "payment_method_label": "Mode de paiement",
+    "payment_method_value": "Visa se terminant par 1111",
+    "select": "Sélectionner",
+    "table_amount_header": "Montant",
+    "table_description_account": "Compte : Marvin McKinney (marvin@demo.com)",
+    "table_description_header": "Description",
+    "table_description_item": "Plan Basique pour la commande #51311C6265",
+    "table_total_amount": "10,00 $",
+    "table_total_label": "Total",
+    "time_every": "chaque",
+    "time_now": "maintenant",
+    "time_now_and_then": "de temps en temps",
+    "welcome": "Bienvenue",
+    "you_do_not_have_membership": "Vous n'avez pas d'abonnement actif."
+  },
+
+  "streamSocial": {
+    "Whatsapp": "Whatsapp",
+    "dislike": "Je n’aime pas",
+    "facebook": "Facebook",
+    "follow_us": "Suivez-nous",
+    "instagram": "Instagram",
+    "like": "J’aime",
+    "share": "Partager",
+    "stay_connected": "Restez connecté sur",
+    "twitter": "Twitter"
+  },
+
+  "streamReview": {
+    "based_on_rating": "Basé sur l’évaluation individuelle",
+    "first_review": "Soyez le premier à donner votre avis sur « Zombie Island »",
+    "no_reviews": "Il n’y a pas encore d’avis.",
+    "reviews_for_vikings": "Avis sur Vikings",
+    "your_review": "Votre avis",
+    "email_address_will_not": "Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués",
+    "review1": "Un spectacle visuel spectaculaire avec une histoire touchante en son cœur.",
+    "review2": "La cinématographie était époustouflante !",
+    "review3": "J’ai adoré chaque seconde !",
+    "review4": "Avis sur Vikings",
+    "review5": "Juste correct, rien de spécial.",
+    "review6": "C’est un incontournable pour tout le monde.",
+    "review7": "Les fins en suspense étaient plus frustrantes que captivantes.",
+    "review8": "Je pense que la fin aurait pu être meilleure, mais le voyage en valait la peine. Le film avait de fortes performances, un scénario solide et des moments vraiment mémorables."
+
+  }
+}
